@@ -1,2 +1,33 @@
-# -Consumer-Pulse-360-Analytics-Dashboard
-An end-to-end Power BI solution analyzing 1,000+ customer transactions and reviews to uncover purchase trends, sentiment insights, and product performance across segments. Built using SQL, Python, and Power BI for data storytelling and strategic business decisions.
+
+# Consumer Pulse 360 Analytics Dashboard
+
+This project presents an end-to-end business intelligence dashboard built using **Power BI** to analyze customer purchase behavior and sentiment trends. The goal is to integrate sales data with customer reviews to deliver actionable insights for data-driven retail strategies.
+
+## 📊 Project Highlights
+- Merged **1,000 transaction records** with **1,000 customer reviews**.
+- Conducted **sentiment analysis** using Python and TextBlob.
+- Built an interactive **Power BI dashboard** showcasing:
+  - Sales trends over time
+  - Top product categories by revenue
+  - Customer sentiment breakdowns by product
+  - Segment-wise buying behavior
+
+## 🛠 Tools & Technologies
+- Power BI (DAX, Power Query)
+- Python (Pandas, TextBlob)
+- Excel
+
+## 📈 Key Business Insights
+- Identified best-performing products with high positive sentiment.
+- Uncovered seasonal sales spikes across categories.
+- Provided data-backed suggestions to optimize product placement and promotions.
+
+## Dashboard snapshot
+
+## ✅ Outcomes
+- Delivered a unified customer pulse report combining quantitative and qualitative metrics.
+- Improved understanding of customer sentiment impact on purchase behavior.
+- Ready-to-share executive-level report for decision-makers.
+
+---
+
