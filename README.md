@@ -23,7 +23,7 @@ This project presents an end-to-end business intelligence dashboard built using 
 - Provided data-backed suggestions to optimize product placement and promotions.
 
 ## Dashboard snapshot
-
+(https://github.com/user-attachments/files/21684544/Consumer.Pulse.360.Analytics.Dashboard.pdf)
 ## ✅ Outcomes
 - Delivered a unified customer pulse report combining quantitative and qualitative metrics.
 - Improved understanding of customer sentiment impact on purchase behavior.
